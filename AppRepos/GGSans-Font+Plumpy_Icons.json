@@ -21,6 +21,15 @@
             "category": "utilities",
             "versions": [
                 {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "localizedDescription": "Wrapper for Enmity with more modifications.",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Plumpy_Icons.ipa",
+                    "size": 110063432,
+                    "minOSVersion": "15.0"
+                },
+                
+                {
                     "version": "252.0",
                     "date": "2024-10-17",
                     "localizedDescription": "Wrapper for Enmity with more modifications.",
