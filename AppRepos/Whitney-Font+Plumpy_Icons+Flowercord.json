@@ -30,10 +30,8 @@
                 {
                     "version": "252.0",
                     "date": "2024-10-17",
-                    "localizedDescription": "Wrapper for Enmity with more modifications.",
                     "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Whitney-Font+Plumpy_Icons+Flowercord.ipa",
-                    "size": 109564709,
-                    "minOSVersion": "15.0"
+                    "size": 109564709
                 }
             ],
             "appPermissions": {}
