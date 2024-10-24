@@ -1,0 +1,660 @@
+{
+    "name": "Rosiecord-GGSans-Font",
+    "identifier": "rosiecord",
+    "subtitle": "Wrapper for Enmity with more modifications.",
+    "description": "Wrapper for Enmity with more modifications.",
+    "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+    "website": "https://enmity.unbound.rip/",
+    "tintColor": "#C44769",
+    "featuredApps": [
+        "com.hammerandchisel.discord"
+    ],
+    "apps": [
+        {
+            "name": "Rosiecord (GGSans Font)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with default Discord font.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font.ipa",
+                    "size": 103195561
+                },
+                
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_GGSans-Font.ipa",
+                    "size": 102767211
+                }
+            ],
+            "appPermissions": {}
+        },
+        
+        {
+            "name": "Rosiecord (Cabin Font)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Cabin font.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font.ipa",
+                    "size": 103171111
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Cabin-Font.ipa",
+                    "size": 102742761
+                }
+            ],
+            "appPermissions": {}
+        },
+        
+        {
+            "name": "Rosiecord (Cabin Font + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Cabin font and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Flowercord.ipa",
+                    "size": 103188679
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Cabin-Font+Flowercord.ipa",
+                    "size": 102760310
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Cabin Font + Iconsax Icons)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Cabin font and Iconsax icons.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Iconsax_Icons.ipa",
+                    "size": 104411971
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Cabin-Font+Iconsax_Icons.ipa",
+                    "size": 103983621
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Cabin Font + Iconsax Icons + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Cabin font, Iconsax icons and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Iconsax_Icons+Flowercord.ipa",
+                    "size": 104429539
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Cabin-Font+Iconsax_Icons+Flowercord.ipa",
+                    "size": 104001170
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Cabin Font + Plumpy Icons)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Cabin font and Plumpy icons.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Plumpy_Icons.ipa",
+                    "size": 110046625
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Cabin-Font+Plumpy_Icons.ipa",
+                    "size": 109618276
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Cabin Font + Plumpy Icons + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Cabin font, Plumpy icons and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Cabin-Font+Plumpy_Icons+Flowercord.ipa",
+                    "size": 110064193
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Cabin-Font+Plumpy_Icons+Flowercord.ipa",
+                    "size": 109635825
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (GGSans Font + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with default Discord font and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Flowercord.ipa",
+                    "size": 103213129
+                },
+                
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_GGSans-Font+Flowercord.ipa",
+                    "size": 102784760
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (GGSans Font + Iconsax Icons)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with default Discord font and Iconsax icons.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Iconsax_Icons.ipa",
+                    "size": 104436421
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_GGSans-Font+Iconsax_Icons.ipa",
+                    "size": 104008071
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (GGSans Font + Iconsax Icons + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with default Discord font, Iconsax icons and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Iconsax_Icons+Flowercord.ipa",
+                    "size": 104453989
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_GGSans-Font+Iconsax_Icons+Flowercord.ipa",
+                    "size": 104025620
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (GGSans Font + Plumpy Icons)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with default Discord font and Plumpy icons.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Plumpy_Icons.ipa",
+                    "size": 110071075
+                },
+                
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_GGSans-Font+Plumpy_Icons.ipa",
+                    "size": 109642726
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (GGSans Font + Plumpy Icons + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with default Discord font, Plumpy icons and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_GGSans-Font+Plumpy_Icons+Flowercord.ipa",
+                    "size": 110088643
+                },
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_GGSans-Font+Plumpy_Icons+Flowercord.ipa",
+                    "size": 109660275
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Quicksand Font)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Quicksand font.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font.ipa",
+                    "size": 103064278
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Quicksand-Font.ipa",
+                    "size": 102635928
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Quicksand Font + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Quicksand font and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Flowercord.ipa",
+                    "size": 103081846
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Quicksand-Font+Flowercord.ipa",
+                    "size": 102653477
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Quicksand Font + Iconsax Icons)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Quicksand font and Iconsax icons.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Iconsax_Icons.ipa",
+                    "size": 104305138
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Quicksand-Font+Iconsax_Icons.ipa",
+                    "size": 103876788
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Quicksand Font + Iconsax Icons + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Quicksand font, Iconsax icons and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Iconsax_Icons+Flowercord.ipa",
+                    "size": 104322706
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Quicksand-Font+Iconsax_Icons+Flowercord.ipa",
+                    "size": 103894337
+                }
+            ],
+            "appPermissions": {}
+        },
+        
+        {
+            "name": "Rosiecord (Quicksand Font + Plumpy Icons)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Quicksand font and Plumpy icons.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Plumpy_Icons.ipa",
+                    "size": 109939792
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Quicksand-Font+Plumpy_Icons.ipa",
+                    "size": 109511443
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Quicksand Font + Plumpy Icons + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with Quicksand font, Plumpy icons and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Quicksand-Font+Plumpy_Icons+Flowercord.ipa",
+                    "size": 109957360
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Quicksand-Font+Plumpy_Icons+Flowercord.ipa",
+                    "size": 109528992
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Whitney Font)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with old Discord font.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font.ipa",
+                    "size": 103099995
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Whitney-Font.ipa",
+                    "size": 102671645
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Whitney Font + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with old Discord font and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Flowercord.ipa",
+                    "size": 103117563
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Whitney-Font+Flowercord.ipa",
+                    "size": 102689194
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Whitney Font + Iconsax Icons)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with old Discord font and Iconsax icons.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Iconsax_Icons.ipa",
+                    "size": 104340855
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Whitney-Font+Iconsax_Icons.ipa",
+                    "size": 103912505
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Whitney Font + Iconsax Icons + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with old Discord font, Iconsax icons and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Iconsax_Icons+Flowercord.ipa",
+                    "size": 104358423
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Whitney-Font+Iconsax_Icons+Flowercord.ipa",
+                    "size": 103930054
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Whitney Font + Plumpy Icons)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with old Discord font and Plumpy icons.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Plumpy_Icons.ipa",
+                    "size": 109975509
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Whitney-Font+Plumpy_Icons.ipa",
+                    "size": 109547160
+                }
+            ],
+            "appPermissions": {}
+        },
+
+        {
+            "name": "Rosiecord (Whitney Font + Plumpy Icons + Flowercord)",
+            "bundleIdentifier": "com.hammerandchisel.discord",
+            "developerName": "Enmity Team",
+            "subtitle": "Wrapper for Enmity with more modifications.",
+            "localizedDescription": "Rosiecord with old Discord font, Plumpy icons and Flowercord.",
+            "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
+            "tintColor": "#C44769",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "253.0",
+                    "date": "2024-10-21",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_253/Rosiecord-253_Whitney-Font+Plumpy_Icons+Flowercord.ipa",
+                    "size": 109993077
+                },
+
+                {
+                    "version": "252.0",
+                    "date": "2024-10-17",
+                    "downloadURL": "https://github.com/Skawtnyc/rosiecord/releases/download/rosiecord_252/Rosiecord-252_Whitney-Font+Plumpy_Icons+Flowercord.ipa",
+                    "size": 109564709
+                }
+            ],
+            "appPermissions": {}
+        }
+    ]
+}    
