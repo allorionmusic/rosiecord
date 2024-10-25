@@ -14,7 +14,7 @@
             "name": "Rosiecord (GGSans Font)",
             "bundleIdentifier": "com.hammerandchisel.discord",
             "developerName": "Enmity Team",
-            "subtitle": "Wrapper for Enmity with more modifications.",
+            "subtitle": "Rosiecord with default Discord font.",
             "localizedDescription": "Rosiecord with default Discord font.",
             "iconURL": "https://github.com/Skawtnyc/rosiecord/blob/master/Icons/EnmityIcon76x76@2x~ipad.png?raw=true",
             "tintColor": "#C44769",
